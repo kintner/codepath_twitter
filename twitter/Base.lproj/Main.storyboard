@@ -40,7 +40,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="30" y="372"/>
+            <point key="canvasLocation" x="28" y="354"/>
         </scene>
         <!--Tweets View Controller-->
         <scene sceneID="cAI-RY-Eo0">

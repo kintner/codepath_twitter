@@ -101,7 +101,7 @@ class TweetsViewController: UIViewController, UITableViewDelegate, UITableViewDa
             cell.tweet.undoretweet(handleError)
         } else {
             cell.retweetButton.selected = true
-            cell.tweet.undoretweet(handleError)
+            cell.tweet.retweet(handleError)
         }
         
     }
